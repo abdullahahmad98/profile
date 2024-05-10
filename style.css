@@ -59,7 +59,6 @@ a:hover {
 
 .logo {
     font-size: 2rem;
-    font-weight: 600;
 }
 
 .logo:hover {
@@ -72,7 +71,7 @@ a:hover {
     display: none;
 }
 
-#hamburger-menu {
+.hamburger-menu {
     position: relative;
     display: inline-block;
 }
